@@ -12,7 +12,7 @@
         you can only access them
         using the "?" option.
         unfortunately, the "?" char
-        picks all actions and hidden actions,
+        picks all actions and hidden actions (and normal actions),
         even weak ones.
         but sometimes, there are really, really weak hidden actions.
         so, be careful.
