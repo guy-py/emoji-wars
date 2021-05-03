@@ -61,8 +61,8 @@
         what do you do with it?
         ah, this is when the checking comes in.
         when the player and the com
-        has choose its action,
-        it checks the two
+        has choose they're actions,
+        the com checks the two
         actions, checking if there's a set of action
         like that.
         example:
