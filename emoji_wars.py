@@ -216,8 +216,8 @@ def run():
     if io == '':
         io = check(k)
     print(io)
-    if input('again?(y/n)')
-    run()
+    if input('again?(y/n)')=='y':
+    	run()
 def setup():
 
     '''setups the game'''
